@@ -92,16 +92,7 @@ Sou um(a) desenvolvedor(a) em formação, focado(a) em construir uma base sólid
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tlzim067&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas gerais" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tlzim067&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" height="165"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tlzim067&theme=default&hide_border=true" alt="Streak de contribuições" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tlzim067&theme=minimal&hide_border=true" alt="Gráfico de atividade" width="100%"/>
 
 </div>
 
