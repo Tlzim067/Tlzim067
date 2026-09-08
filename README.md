@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:4b6cb7&height=200&section=header&text=Tlzim067&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B6CB7&center=true&vCenter=true&width=500&lines=Desenvolvedor(a)+em+forma%C3%A7%C3%A3o;Estudando+Java+%26+JavaScript;Aprendendo+na+pr%C3%A1tica%2C+projeto+a+projeto" alt="Typing SVG" />
+<h3>Desenvolvedor em formação · Java & JavaScript</h3>
 
 <br/>
 
@@ -14,12 +14,12 @@
 
 ## Sobre mim
 
-Sou um(a) desenvolvedor(a) em formação, focado(a) em construir uma base sólida em lógica de programação através de projetos práticos. Tenho interesse especial em desenvolvimento de jogos simples e aplicações interativas, e busco constantemente novos desafios para evoluir tecnicamente.
+Sou um desenvolvedor em formação, focado em construir uma base sólida em lógica de programação através de projetos práticos. Tenho interesse especial em desenvolvimento de jogos simples e aplicações interativas, e busco constantemente novos desafios para evoluir tecnicamente.
 
 - Atualmente desenvolvendo projetos em **Java** e **JavaScript**
 - Aprofundando conhecimentos em lógica de programação e estruturas de dados
-- Focado(a) em escrever código limpo e organizado
-- Aberto(a) a colaborações, feedbacks e oportunidades de aprendizado
+- Focado em escrever código limpo e organizado
+- Aberto a colaborações, feedbacks e oportunidades de aprendizado
 
 <br/>
 
